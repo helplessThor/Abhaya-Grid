@@ -36,9 +36,3 @@ __pycache__/
 *.pyo
 .venv/
 venv/
-
-# Database (regenerated via script)
-abhaya.db
-
-# Generated GeoJSON (regenerated via script)
-public/india_states_crimes.geojson
